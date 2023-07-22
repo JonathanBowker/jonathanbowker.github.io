@@ -79,7 +79,7 @@ Contact us today to embark on your transformation journey and discover how Advan
 - **Technology Audits**: Conduct thorough assessments of existing legal technology infrastructure, identifying areas for improvement and optimization.
 - **Technology Adoption Recommendations**: Provide recommendations on adopting new technology solutions to enhance productivity and competitive advantage.
 
-
+# Advanced Analytica is a leading firm for implementing no-code tools
 ## 3 core competencies
 ### We focus on 3 core competencies in designing and delivering no-code applications:
 - **Data storage**: We use tools like Airtable and SmartSuite to store your data. They might look like spreadsheets, but they are powerful, browser-based databases!
