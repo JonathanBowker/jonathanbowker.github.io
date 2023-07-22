@@ -1,10 +1,10 @@
 # **Offering: Advanced Analytica's Legal Apps Cloud**
 
-## **Transforming In-House Legal Departments into Modern Data-Driven Practices**
+## **Transforming in-ouse legal departments into data-driven practices**
 
-In today's fast-paced business landscape, in-house legal departments are facing increased workloads and cost pressures. To empower legal professionals to work more strategically, add create value to their businesses, and enhance stakeholder experiences, Advanced Analytica has launced the **Legal Apps Cloud**. This innovative offering combines legal industry capability and services with Advanced Analytica's technology expertise and the Airtable Connected Apps Platform, to create powerful solutions that are drive the practice of digital law.
+In-house legal departments are facing increased workloads and cost pressures. To empower legal professionals to work more strategically, add create value to their businesses, and enhance stakeholder experiences, Advanced Analytica has launced the **Legal Apps Cloud**. This innovative offering combines legal industry capability and services with Advanced Analytica's technology expertise and the Airtable Connected Apps Platform, to create powerful solutions that are drive the practice of digital law.
 
-### **The Legal Apps Cloud Advantage**
+### **Legal Apps Cloud**
 
 With the Legal Apps Cloud, Advanced Analytica provides your company's legal department with the necessary tools and processes to achieve higher levels of effectiveness, efficiency, and strategic impact. Our accredited legal technologists will work closely with you to analyse your department's business and technology needs, recommend the most suitable solutions, connect your data, configure workflows, and deploy cutting-edge legal applications to your Legal Apps Cloud.
 
@@ -14,11 +14,11 @@ The Legal Apps Cloud, powered by the Airtable Connected Apps Platform™, offers
 
 - ### Legal Automation:
    - **Automate repetitive tasks**: Streamline high-volume, repetitive legal tasks and workflows to boost efficiency and free up valuable time for your team.
-   - **Performance monitoring**: Monitor the performance of automated processes to identify opportunities for further optimization and continuous improvement.
-   - **Seamless integration**: Our flexible solutions integrate seamlessly with your existing legal applications, ensuring a smooth transition to a more automated environment.
+   - **Performance monitoring**: Monitor the performance of automated processes to identify opportunities for further optimisation and continuous improvement.
+   - **Seamless integration**: Our flexible solutions integrate seamlessly with your existing tools to ensure a smooth transition to a more automated environment.
 
 - ### Legal AI:
-   - **Uncover valuable insights**: Utilise Complex Event Processing (CEP) and Natural Language Processing (NLP) technology to uncover valuable insights hidden within documents and disparate datasets.
+   - **Uncover valuable insights**: Utilise Complex Event Processing (CEP) and Natural Language Processing (NLP) technology to uncover valuable insights hidden within documents and disparate SaaS datasets.
    - **Analyse and act**: Our Legal AI solutions empower your team to analyse data more efficiently and make data-driven decisions to strengthen your legal strategies and horizon scanning capacity.
 
 - ### Legal Database & Analytics:
