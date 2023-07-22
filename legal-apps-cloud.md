@@ -40,7 +40,7 @@ Contact us today to embark on your transformation journey and discover how Advan
 
 ## Range of Services
 
-### 1. Client Product Development Services
+### 1. Building Client Products
 - **Building Client Products**: Collaborate with legal professionals to design and develop innovative legal products tailored to meet specific client needs and demands.
 - **Delivering and Presenting Legal Advice**: Assist in creating dynamic and interactive ways to present legal advice to clients, utilizing technology for engaging and user-friendly experiences.
 
@@ -53,7 +53,7 @@ Contact us today to embark on your transformation journey and discover how Advan
 - **Overhead Reduction and Increased Profitability**: Streamline processes through automation, leading to reduced overhead costs and improved profitability for law firms and legal departments.
 - **Knowledge and Data Management Techniques**: Develop and implement advanced knowledge and data management systems to optimize information access and retrieval, promoting effective decision-making.
 
-### 4. Data Security and Compliance Services
+### 4. Cybersecurity and Compliance Services
 - **Ensuring Data Safety**: Implement robust data security measures and encryption techniques to safeguard sensitive legal information within the organization.
 - **Compliance with Data Regulations**: Assist in adhering to legal and industry-specific data regulations, ensuring data privacy and compliance with relevant laws and standards.
 
@@ -79,3 +79,9 @@ Contact us today to embark on your transformation journey and discover how Advan
 - **Technology Audits**: Conduct thorough assessments of existing legal technology infrastructure, identifying areas for improvement and optimization.
 - **Technology Adoption Recommendations**: Provide recommendations on adopting new technology solutions to enhance productivity and competitive advantage.
 
+
+
+### We focus on 3 core competencies in designing and delivering no-code applications:
+- **Data storage**: We use tools like Airtable and SmartSuite to store your data. They might look like spreadsheets, but they are powerful, browser-based databases!
+- **Workflow automation**: Make.com and Zapier can automate those repetitive tasks within your workflow and be integrated into your application.
+- **Front-end interfaces**: Give your team a user-friendly interface that has distinct permissions for creating, reading, updating and deleting data.
