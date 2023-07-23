@@ -1,17 +1,15 @@
-# **Offering: Advanced Analytica's Legal Apps Cloud**
-
 ## Introduction
 In-house legal departments are facing increased workloads with many taking on increased work whilst facing pressure to control costs. In response to this, agile business leaders are implementing and deploying technology enabled processes and solutions to assist legal professionals with working more strategically, bringing more value to the organisation and improving experiences for all stakeholders in the data supply chain.
 
-To help legal departments transform into more modern and digital law practices, Advanced Analytica has launched the Digital Law Services programme and LegalApps.Cloud to facilitate the delivery of data-driven legal services using no-code technology. This new offering combines legal industry capability with technology expertise to build and operate legal applications to drive digtal law practice.
+To help legal departments transform into more modern and digital law practices, Advanced Analytica has launched the Digital Law Services programme and LegalApps.Cloud to facilitate the delivery of data-driven legal services using no-code technology. This new offering combines legal industry capability with technology expertise build and operate new legal service applications that drive  digital law practices.
 
 
 ## Digital Law Services Programme
-The Digital Law Services programme enables you to work with specialist legal technologists, accredited by the Law Society of Scotland, to build and operate expert legal systems. The programme starts by assessing a legal department’s business and technology needs. We then recommend the most appropriate solutions, connect and configure systems, and deploy customised legal applications in the LegalApps.Cloud to provide valued services and solutions.
+The Digital Law Services programme enables you to work with our specialist legal technologists, accredited by the Law Society of Scotland, to build and operate expert legal systems. The programme starts by assessing a legal department’s business and technology needs. We then recommend the most appropriate data architecture, connect and configure systems, and deploy customised legal applications in the LegalApps.Cloud to deliver valued services and solutions.
 
 
 ## LegalApps.Cloud
-The LegalApps.Cloud is set to revolutionise the delivery of legal services by bringing together legal capacity and no-code technology expertise to legal operations. Operating at the leading edge of technology innovation and information service delivery, the LegalApps.Cloud provides fast access to developments in law, regulatory enforcements, opinions and insight, and management tools to help key  decision makers turn legal knowledge into actions.
+The LegalApps.Cloud concept is set to revolutionise the delivery of legal services by bringing together legal capacity and no-code technology expertise to improve the effectiveness of service delivery and legal operations. It is the nexus between technology innovation and legal service delivery and provides fast access to required information - developments in law and enforcements, opinions and insight, and management tools to help decision makers turn legal knowledge into actions.
 
 
 **LegalApps.Cloud**
