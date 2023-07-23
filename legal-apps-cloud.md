@@ -3,7 +3,7 @@
 ## Introduction
 In-house legal departments are facing increased workloads with many taking on increased work whilst facing pressure to control costs. In response to this, agile business leaders are implementing and deploying technology enabled processes and solutions to assist legal professionals with working more strategically, bringing more value to the organisation and improving experiences for all stakeholders in the data supply chain.
 
-To help legal departments transform into more modern and digital law practices, Advanced Analytica has launched the Digital Law Services programme and LegalApps.Cloud to facilitate the delivery of data-driven legal services using no-code technology. This new offering combines legal industry capability with technology expertise build and operate new legal service applications that drive  digital law practices.
+To help legal departments transform into more modern and digital law practices, Advanced Analytica has launched the Digital Law Services programme and LegalApps.Cloud to facilitate the delivery of data-driven legal services using no-code technology. This new offering combines legal industry capability with technology expertise to build and operate legal applications that drive a digtal law practice.
 
 
 ## Digital Law Services Programme
