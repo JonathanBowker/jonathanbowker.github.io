@@ -14,43 +14,43 @@ The Digital Law Services programme enables you to work with specialist legal tec
 The LegalApps.Cloud is set to revolutionise the delivery of legal services by bringing together legal capacity and no-code technology expertise to legal operations. Operating at the leading edge of technology innovation and information service delivery, the LegalApps.Cloud provides fast access to developments in law, regulatory enforcements, opinions and insight, and management tools to help key  decision makers turn legal knowledge into actions.
 
 
-LegalApps.Cloud
+**LegalApps.Cloud**
 ### Legal Research
 
 Connect in-house departments with external counsel, independent research, as well as proprietary research on industries, markets, companies and countries from our research teams.
 
 
-LegalApps.Cloud
+**LegalApps.Cloud**
 ### Insight and Opinion
 
 Our 1,500 lawyers in 40 offices worldwide provide award-winning coverage of companies, industries, markets and laws. We provide opinions on global developments and you’ll see it first on the LegalApps.Cloud.
 
 
-LegalApps.Cloud
+**LegalApps.Cloud**
 ### Access
 
 Experience the power of the LegalApps.Cloud at anytime, from anywhere, with remote and mobile access. 
 
 
-LegalApps.Cloud
+**LegalApps.Cloud**
 ### Dashboards
 
 Optimise your workflows with custom desktop applications, monitors, market alerts and dashboard capabilities.
 
 
-LegalApps.Cloud
+**LegalApps.Cloud**
 ### Collaboration Tools
 
 Capture, share and receive information both within your firm and with external clients and counterparties, from a powerful legal information system.
 
 
-LegalApps.Cloud
+**LegalApps.Cloud**
 ### Education
 
 A suite of industry-driven, ed-tech products and services designed to emmerse   students and professionals directly into the legal industry.
 
 
-LegalApps.Cloud
+**LegalApps.Cloud**
 ### Legal Analytics
 
 Power your application portfolio and risk strategies with next-generation analytics and combine data along with performance attribution and risk reporting tools and more.
