@@ -2,7 +2,7 @@
 
 ## **Transforming in-ouse legal departments into data-driven practices**
 
-In-house legal departments are facing increased workloads and cost pressures. To empower legal professionals to work more strategically, add create value to their businesses, and enhance stakeholder experiences, Advanced Analytica has launced the **Legal Apps Cloud**. This innovative offering combines legal industry capability and services with Advanced Analytica's technology expertise and the Airtable Connected Apps Platform, to create powerful solutions that are drive the practice of digital law.
+In-house legal departments are facing increased workloads and cost pressures. To empower legal professionals to work more effectively for their businesses and enhance stakeholder experience, Advanced Analytica is launching the LegalApps.Cloud to facilitate the delivery of digital law services. This new offering combines legal industry capability with no-code expertise to build data-driven services and legal apps to drive the practice of digital law.
 
 ### **Legal Apps Cloud**
 
