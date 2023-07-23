@@ -4,7 +4,51 @@
 
 In-house legal departments are facing increased workloads and cost pressures. To empower legal professionals to work more effectively for their businesses and enhance stakeholder experience, Advanced Analytica is launching the LegalApps.Cloud to facilitate the delivery of digital law services. This new offering combines legal industry capability with no-code expertise to build data-driven services and legal apps to drive the practice of digital law.
 
-### **Legal Apps Cloud**
+## **Legal Apps Cloud**
+
+### LegalApps.Cloud
+The LegalApps.Cloud (LAC) aims to revolutionise the legal industry by bringing efficiency and transparency to legal industry. LAC operates at the cutting edge of innovation and information delivery — with fast access to legal developments, data services, unique insight, and management tools helping leading decision makers turn knowledge into action.
+
+### LegalApps.Cloud
+Legal Research
+
+Connect to in-house departments with independent research, as well as proprietary research on industries, markets, companies and countries from Digital Law Services’ research teams.
+
+
+### LegalApps.Cloud
+News
+
+Our 1,500 professionals in 120 cities worldwide deliver award-winning coverage of companies, industries, markets and laws. We break news that moves markets – and you’ll see it first on the LegalApps.Cloud.
+
+
+### LegalApps.Cloud
+Access
+
+Experience the power of the LegalApps.Cloud anytime, from anywhere, with remote and mobile access.
+
+
+### LegalApps.Cloud
+Dashboards
+
+Optimise your workflow with custom desktop applications, monitors, market alerts and dashboard capabilities.
+
+
+### LegalApps.Cloud
+Collaboration Tools
+
+Capture, share and receive the information both within your firm and with external clients and counterparties, from the world’s a powerful legal information system.
+
+
+### LegalApps.Cloud
+Education
+
+A suite of industry-driven, ed-tech products and services designed to immerse students and professionals directly into the financial markets.
+
+
+### LegalApps.Cloud
+Legal Analytics
+
+Power your portfolio management and risk strategies with the industry’s next-generation portfolio analytics solution that combines global data along with performance attribution, multi-asset risk models, reporting tools and more.
 
 With the Legal Apps Cloud, Advanced Analytica provides your company's legal department with the necessary tools and processes to achieve higher levels of effectiveness, efficiency, and strategic impact. Our accredited legal technologists will work closely with you to analyse your department's business and technology needs, recommend the most suitable solutions, connect your data, configure workflows, and deploy cutting-edge legal applications to your Legal Apps Cloud.
 
