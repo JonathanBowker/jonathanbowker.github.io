@@ -10,11 +10,14 @@ Advanced Analytica's Digital Solutions Programme enables General Counsel to work
 
 ### The programme focusses on 3 core competencies for delivering no-code applications:
 
-- **Data storage**: We use tools like Airtable and SmartSuite to store your data. They might look like spreadsheets, but they are powerful, browser-based databases!
+- **Data storage**: We investigate the suitablity of browser-based database management tools like Airtable, SmartSuite and Click-up to inline with your data use cases and buiness strategy.
   
-- **Workflow automation**: Make.com and Zapier platforms can automate repetitive tasks within your workflows and be integrated with your legal applications.
+- **Workflow automation**: Explore the value of workflow management tools such as Make.com and Zapier to automate and seamlessly integrate repetitive tasks within with your legal applications.
   
-- **Front-end interfaces**: Give your stakeholders and application subscribers a user-friendly interface that has role based permissions for creating, reading, updating and deleting data.
+- **Front-end interfaces**: Improve your stakeholders exepriences user-friendly interfaces such as Glide, Soft and StackerQ and ensure role based permissions for accessing and interactiong with your data.
+  
+- **Privacy compliance**: Ensure the your application operations are data protection and privacy regulation compliant by design and by default with our trademarked lawyer-in-the-loop<sup>®</sup> privacy workflows.
+
 
 ## Portfolio - Legal Apps Portfolio
 The LegalApps.Cloud is a legal application management platform that exposes your portfolio of custom apps to a global audience of subscribers. It enbales in-house legal departments to deliver technology assured services, legal self-help solutions and securely share critical information and knowledge. The LegalApps.Cloud is the nexus between your legal capacity and supply chain stakeholders that exploits cutting-edge no-code technology to provide instant access to information management tools to facilate the delivery of legal self-help applications.
