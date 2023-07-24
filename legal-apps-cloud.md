@@ -16,7 +16,7 @@ Advanced Analytica's Digital Solutions Programme enables General Counsel to work
   
 - **Front-end interfaces**: Improve your stakeholders exepriences user-friendly interfaces such as Glide, Soft and StackerQ and ensure role based permissions for accessing and interactiong with your data.
   
-- **Privacy assured**: Ensure the your data operations are highly compliant with data protection and privacy regulations by design and by default with our trademarked lawyer-in-the-loop<sup>®</sup> privacy workflows.
+- **Assured compliance**: Ensure the your data operations are highly compliant with data protection and privacy regulations by design and by default with our trademarked lawyer-in-the-loop<sup>®</sup> privacy workflows.
 
 
 ## Portfolio - Legal Apps Portfolio
