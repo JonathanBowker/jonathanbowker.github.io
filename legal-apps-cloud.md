@@ -1,110 +1,58 @@
 ## Introduction
-In-house legal departments are facing increased workloads with many taking on increased work whilst facing pressure to control costs. In response to this, agile business leaders are implementing and deploying technology enabled processes and solutions to assist legal professionals with working more strategically, bringing more value to the organisation and improving experiences for all stakeholders in the data supply chain.
+In today's igh velocity business environment, in-house legal departments are struggling to keep up with increased workloads whilst facing pressure to control costs. In response to this, forward thinking business leaders are seeking to implement and deploy technology enabled solutions to help in-house legal professionals work more effectively and create more value whilst improving experiences for all stakeholders in the supply chain, and reduce the depedency and spend on outside legal counsel.
 
-To help legal departments transform into more modern and digital law practices, Advanced Analytica has launched the Digital Law Services programme and LegalApps.Cloud to facilitate the delivery of data-driven legal services using no-code technology. This new offering combines legal industry capability with technology expertise build and operate new legal service applications that drive  digital law practices.
+To help business leaders transform in-house legal departments into modern digital law practices, Advanced Analytica offers a **Digital Law Solutions** programme and **LegalApps.Cloud** to facilitate the delivery of digital legal services and self-help solutions with cutting-edge no-code technology. This agile and innovative approach combines legal capability with technology expertise to facilate the build and operation of effective digital law practices and reduce legal spend without the need for long term investment in new technology.
 
+## Programme - Digital Law Solutions
+The Digital Law Solutions (DLS) programme enables you to work with our senior legal technologists, accredited by the Law Society of Scotland, to build and operate expert legal systems and self-help solutions. The programme starts by identifying bottlenecks in your existing legal processes with a focus on data, workflow and front-end interfaces. We then recommend database architecture and online management systems, connection and workflow configuration systems, and support the deployment and operation of applications in a custom branded LegalApps.Cloud.
 
-## Digital Law Services Programme
-The Digital Law Services programme enables you to work with our specialist legal technologists, accredited by the Law Society of Scotland, to build and operate expert legal systems. The programme starts by assessing a legal department’s business and technology needs. We then recommend the most appropriate data architecture, connect and configure systems, and deploy customised legal applications in the LegalApps.Cloud to deliver valued services and solutions.
-
-
-## LegalApps.Cloud
-The LegalApps.Cloud concept is set to revolutionise the delivery of legal services by bringing together legal capacity and no-code technology expertise to improve the effectiveness of service delivery and legal operations. It is the nexus between technology innovation and legal service delivery and provides fast access to required information - developments in law and enforcements, opinions and insight, and management tools to help decision makers turn legal knowledge into actions.
+## Platform - LegalApps.Cloud
+The LegalApps.Cloud is a legal application management platform that exposes your portfolio of custom apps to a global audience of subscribers. It enbales in-house legal departments to deliver technology assured services, legal self-help solutions and securely share critical information and knowledge. The LegalApps.Cloud is the nexus between your legal capacity and supply chain stakeholders that exploits cutting-edge no-code technology to provide instant access to information management tools to facilate the delivery of legal self-help applications.
 
 
 **LegalApps.Cloud**
 ### Legal Research
 
-Connect in-house departments with external counsel, independent research, as well as proprietary research on industries, markets, companies and countries from our research teams.
+Connect in-house departments with data sources, external counsel, independent research, as well as proprietary research on regulations, industries and companies prepared by our research teams.
 
 
 **LegalApps.Cloud**
 ### Insight and Opinion
 
-Our 1,500 lawyers in 40 offices worldwide provide award-winning coverage of companies, industries, markets and laws. We provide opinions on global developments and you’ll see it first on the LegalApps.Cloud.
+Our teams of over 1,200 lawyers in 40 offices worldwide provide coverage of companies, industries, markets and laws. We provide opinions on global developments and you have instant access to it on the LegalApps.Cloud.
 
 
 **LegalApps.Cloud**
 ### Access
 
-Experience the power of the LegalApps.Cloud at anytime, from anywhere, with remote and mobile access. 
+Experience the power of cloud technology and agile law with embrace the efficiences of modern digital law practice with remote and mobile access anytime, anywhere around the globe. 
 
 
 **LegalApps.Cloud**
 ### Dashboards
 
-Optimise your workflows with custom desktop applications, monitors, market alerts and dashboard capabilities.
+Optimise legal workflows with customised applications, monitor performance, and track market developments and alerts with dashboard capabilities.
 
 
 **LegalApps.Cloud**
 ### Collaboration Tools
 
-Capture, share and receive information both within your firm and with external clients and counterparties, from a powerful legal information system.
+Capture, share and receive information both within your department and with external counsel and clients, from a centralised and flexible legal information management system.
 
 
 **LegalApps.Cloud**
 ### Education
 
-A suite of industry-driven, ed-tech products and services designed to emmerse   students and professionals directly into the legal industry.
+Integrate your suite of ed-tech products on demand to ensure just-in-time legal/compliance training to staff, partners and suppliers as and when required.
 
 
 **LegalApps.Cloud**
 ### Legal Analytics
 
-Power your application portfolio and risk strategies with next-generation analytics and combine data along with performance attribution and risk reporting tools and more.
+Power your legal application portfolio and risk strategies with next-generation analytics and combine data with performance and risk reporting tools and more.
 
 
-## **Transforming in-house legal departments into data-driven practices**
 
-In-house legal departments are facing increased workloads and cost pressures. To empower legal professionals to work more effectively for their businesses and enhance stakeholder experience, Advanced Analytica is launching the LegalApps.Cloud to facilitate the delivery of digital law services. This new offering combines legal industry capability with no-code expertise to build data-driven services and legal apps to drive the practice of digital law.
-
-## **Legal Apps Cloud**
-
-### LegalApps.Cloud
-The LegalApps.Cloud (LAC) aims to revolutionise the legal industry by bringing efficiency and transparency to legal industry. LAC operates at the cutting edge of innovation and information delivery — with fast access to legal developments, data services, unique insight, and management tools helping leading decision makers turn knowledge into action.
-
-### LegalApps.Cloud
-Legal Research
-
-Connect to in-house departments with independent research, as well as proprietary research on industries, markets, companies and countries from Digital Law Services’ research teams.
-
-
-### LegalApps.Cloud
-News
-
-Our 1,500 professionals in 120 cities worldwide deliver award-winning coverage of companies, industries, markets and laws. We break news that moves markets – and you’ll see it first on the LegalApps.Cloud.
-
-
-### LegalApps.Cloud
-Access
-
-Experience the power of the LegalApps.Cloud anytime, from anywhere, with remote and mobile access.
-
-
-### LegalApps.Cloud
-Dashboards
-
-Optimise your workflow with custom desktop applications, monitors, market alerts and dashboard capabilities.
-
-
-### LegalApps.Cloud
-Collaboration Tools
-
-Capture, share and receive the information both within your firm and with external clients and counterparties, from the world’s a powerful legal information system.
-
-
-### LegalApps.Cloud
-Education
-
-A suite of industry-driven, ed-tech products and services designed to immerse students and professionals directly into the financial markets.
-
-
-### LegalApps.Cloud
-Legal Analytics
-
-Power your portfolio management and risk strategies with the industry’s next-generation portfolio analytics solution that combines global data along with performance attribution, multi-asset risk models, reporting tools and more.
-
-With the Legal Apps Cloud, Advanced Analytica provides your company's legal department with the necessary tools and processes to achieve higher levels of effectiveness, efficiency, and strategic impact. Our accredited legal technologists will work closely with you to analyse your department's business and technology needs, recommend the most suitable solutions, connect your data, configure workflows, and deploy cutting-edge legal applications to your Legal Apps Cloud.
 
 ## **How We Can Help**
 
